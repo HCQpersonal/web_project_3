@@ -1,4 +1,6 @@
 .header__language-links {
+  display: flex;
   margin-top: 46px;
   margin-right: 148px;
+  list-style: none;
 }

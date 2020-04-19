@@ -1,12 +1,14 @@
-@import url('../vendors/normalize.css');
+@import url('../vendor/normalize.css');
+@import url('../vendor/fonts/fonts.css');
 @import url('../blocks/header/header.css');
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/page/page.css');
-@import url('../blocks/photo-grid/photo-grid.css')
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/places/places.css');
 
 /* Update font folder & add source links to page */
 /* 1024px
-768px 1024px
+768px 1024px cjecl 888px 1025 & 1023, very middle and right at breakpoints
 425px 768px
 320px 425px
 less breakpoints = better performance, but use more if we need (this is at minimum) */
