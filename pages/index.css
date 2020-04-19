@@ -5,3 +5,8 @@
 @import url('../blocks/photo-grid/photo-grid.css')
 
 /* Update font folder & add source links to page */
+/* 1024px
+768px 1024px
+425px 768px
+320px 425px
+less breakpoints = better performance, but use more if we need (this is at minimum) */
