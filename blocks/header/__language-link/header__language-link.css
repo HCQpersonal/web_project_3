@@ -1,0 +1,19 @@
+.header__language-link {
+    text-decoration: none;
+    color: #FFFFFF;
+    height: 28px;
+    width: 27px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 117%;
+    text-align: right;
+}
+
+.header__language-link:active {
+    text-decoration: underline;
+}
+
+.header__language-link:nth-nth-of-type(2) {
+    margin-left: 18px;
+}
