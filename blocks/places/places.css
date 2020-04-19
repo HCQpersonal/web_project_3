@@ -2,5 +2,6 @@
 @import url('./__state-description/places__state-description.css');
 @import url('./__state-image/places__state-image.css');
 @import url('./__state-title/places__state-title.css');
-@import url('./__state-URL-heading/places__state-URL-heading.css');
+@import url('./__state-url-heading/places__state-URL-heading.css');
+@import url('./__state-url-link/places__state-url-link.css');
 @import url('./__states/places__states.css');
