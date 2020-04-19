@@ -1,0 +1,5 @@
+.places__state {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 460px auto;
+}

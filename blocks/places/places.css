@@ -1,3 +1,5 @@
+@import url('./__column-first/places__column-first.css');
+@import url('./__column-second/places__column-second.css');
 @import url('./__state/places__state.css');
 @import url('./__state-description/places__state-description.css');
 @import url('./__state-image/places__state-image.css');

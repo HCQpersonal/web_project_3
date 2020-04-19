@@ -1,3 +1,9 @@
+@import url('./__photos/photo-grid__photos.css');
+
+.photo-grid {
+    margin: 92px 48px;
+}
+
 /* .photo-grid__photos {
     list-style: none;
 } */
