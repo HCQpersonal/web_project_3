@@ -1,6 +1,5 @@
-.intro__main-sentence.css {
-    width: 690px;
-    height: 68px;
+.intro__text-main-sentence {
+    max-width: 690px;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
