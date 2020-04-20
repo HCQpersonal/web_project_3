@@ -1,5 +1,10 @@
 .cover__image {
-    margin: 92px 48px;
-    justify-content: center;
+    margin: 92px auto;
     text-align: center;
+    position: relative;
+    color: #FFFFFF;
+    text-decoration: none;
+    align-content: center;
+    justify-content: center;
+    display: flex;
 }
