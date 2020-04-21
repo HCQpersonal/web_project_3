@@ -1,12 +1,14 @@
 .page {
+    min-width: 320px;
+    max-width: 1184px;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     margin: 0 auto;
-    font-family: 'Inter', Arial, sans-serif;
-    /* width: 1280px;
-    height: 7074px; */
-    min-width: 100%;
-    min-height: 100%;
     background-color: #2A2C2F;
     color: #FFFFFF;
+    font-family: 'Inter', Arial, sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
