@@ -15,15 +15,15 @@
     }
 } */
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     .header {
         padding-right: 24px;
         padding-left: 24px;
     }
-}
+} */
 
 /* covers 375px as well - check if works for 320*/
-@media screen and (max-width: 425px) {
+/* @media screen and (max-width: 425px) {
     .header {
         padding: 18px 16px 51px;
     }
@@ -38,5 +38,5 @@
         font-size: 18px;
         /* line-height: 97%; write in decimals shoule be based on font-size, eg. 1 would be 18px 1.5 would be 27px*/
     }
-}
+} */
 

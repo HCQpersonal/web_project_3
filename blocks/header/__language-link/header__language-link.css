@@ -1,11 +1,13 @@
 @import url('./_active/header__language-link_active.css/');
 
 .header__language-link {
-    height: 28px;
     width: 27px;
     font-size: 24px;
-    line-height: 117%;
-    text-align: right;
+    line-height: 1.17;
+    list-style: none;
+    float:left;
+    list-style-type: none;
+    text-decoration: none;
     margin-left: 18px;
 }
 
