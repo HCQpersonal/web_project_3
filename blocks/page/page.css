@@ -2,12 +2,14 @@
     min-width: 320px;
     max-width: 1184px;
     width: 100%;
-    /* min-height: 100vh;
-    display: flex;
+    min-height: 100vh;
+    /* display: flex;
     flex-direction: column; */
     margin: 0 auto;
     background-color: #2A2C2F;
     color: #FFFFFF;
+    padding: 0;
+    border: 1px solid red;
     /* font-family: 'Inter', Arial, sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
