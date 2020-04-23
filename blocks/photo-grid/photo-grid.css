@@ -2,7 +2,7 @@
 @import url('./__photo/photo-grid__photo.css');
 
 .photo-grid {
-    margin: 92px 48px;
+    margin: 92px 48px 12px;
     display: inline-grid;
     grid-template-columns: repeat(4, 25%);
     grid-template-rows: repeat(3, 33.33%);
