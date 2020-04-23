@@ -4,3 +4,7 @@
 @import url('./__text-description/intro__text-description.css');
 @import url('./__subtitle/intro__subtitle.css');
 @import url('./__title/intro__title.css');
+
+.intro {
+    margin: 114px 442px 92px 148px;
+}
