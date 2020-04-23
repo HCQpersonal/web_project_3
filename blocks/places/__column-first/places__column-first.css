@@ -1,3 +1,5 @@
 .places__column-first {
-    align-self: flex-start;
+    display: grid;
+    grid-template-columns: 460px 456px;
+    
 }

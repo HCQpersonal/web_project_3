@@ -1,5 +1,12 @@
 .places__state {
-    list-style: none;
     display: grid;
-    grid-template-columns: 460px auto;
+    grid-template-columns: 460px 456px;
+    grid-column-gap: 40px;
+    margin-bottom: 80px;
+    margin: 80px 148px 0;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
 }
