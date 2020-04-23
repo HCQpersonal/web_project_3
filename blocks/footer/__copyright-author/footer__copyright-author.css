@@ -1,3 +1,12 @@
 .footer__copyright-author {
     margin-top: 2px;
+    line-height: 1.14;
+}
+
+@media screen and (max-width: 320px) {
+    .footer__copyright-author {
+        font-size: 14px;
+        line-height: 1;
+        margin-top: 16px;
+    }
 }
