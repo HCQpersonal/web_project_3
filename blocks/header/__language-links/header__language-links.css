@@ -1,4 +1,6 @@
 .header__language-links {
   list-style: none;
   text-align: right;
+  padding: 0;
+  margin: 0;
 }

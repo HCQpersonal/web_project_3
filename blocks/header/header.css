@@ -1,42 +1,12 @@
 @import url('./__language-link/header__language-link.css');
 @import url('./__language-links/header__language-links.css');
+@import url('./__language-nav/header__language-nav.css');
 @import url('./__logo/header__logo.css');
 
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 33px 128px 50px;
+    padding-bottom: 50px;
+    padding: 0;
+    margin: 0;
 }
-
-
-/* @media screen and (max-width: 1280px) {
-    .header {
-        padding: 36px 48px 47px;
-    }
-} */
-
-/* @media screen and (max-width: 768px) {
-    .header {
-        padding-right: 24px;
-        padding-left: 24px;
-    }
-} */
-
-/* covers 375px as well - check if works for 320*/
-/* @media screen and (max-width: 425px) {
-    .header {
-        padding: 18px 16px 51px;
-    }
-
-    .header__logo {
-        width: 156px;
-        height: 36px;
-    }
-
-    .header__link {
-        margin-left: 16px;
-        font-size: 18px;
-        /* line-height: 97%; write in decimals shoule be based on font-size, eg. 1 would be 18px 1.5 would be 27px*/
-    }
-} */
-

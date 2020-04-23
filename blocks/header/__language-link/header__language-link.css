@@ -6,8 +6,33 @@
     float:left;
     margin-left: 18px;
     text-decoration: underline;
+    margin-top: 14px;
 }
 
 .header__language-link:last-of-type {
     text-decoration: none;
+    margin-right: 148px;
+}
+
+
+@media screen and (max-width: 1024px) {
+.header__language-link:last-of-type {
+    margin-right: 48px;
+}
+
+@media screen and (max-width: 768px) {
+    .header__language-link:last-of-type {
+        margin-right: 24px;
+}
+
+@media screen and (max-width: 320px) {
+    .header__language-link {
+        margin-top: 0;
+        font-size: 18px;
+        line-height: .97;
+}
+
+@media screen and (max-width: 320px) {
+    .header__language-link:last-of-type {
+    margin-right: 16px;
 }
