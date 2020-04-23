@@ -9,3 +9,26 @@
     box-sizing: border-box;
     padding: 0;
 }
+
+@media screen and (max-width: 768px) {
+    .places__state-info {
+        grid-column-gap: 32px;
+        margin-right: 48px;
+        margin-left: 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .places__state-info {
+        grid-column-gap: 28px;
+        margin: 72px 24px 0;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    .places__state-info {
+        display: inline-block;
+        margin: 0;
+    }
+}
