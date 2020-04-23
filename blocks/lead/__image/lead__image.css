@@ -1,6 +1,5 @@
 .lead__image {
     margin: 64px 148px 0px;
-    /* display: flex;
-    flex-direction: column; */
-    display: block;
+    display: flex;
+    flex-direction: column;
 }
