@@ -8,13 +8,16 @@
     .lead__image {
         margin: 56px 48px 0;
     }
+}
     
-    @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .lead__image {
         margin: 56px 0 0;
     }
+}
     
-    @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .lead__image {
         margin: 40px 0 0;
     }
+}
