@@ -26,13 +26,13 @@
 }
 
 @media screen and (max-width: 320px) {
-    .header__language-link {
-        margin-top: 0;
-        font-size: 18px;
-        line-height: .97;
+.header__language-link {
+    margin-top: 6px;
+    font-size: 18px;
+    line-height: 1.33;
 }
 
 @media screen and (max-width: 320px) {
-    .header__language-link:last-of-type {
+.header__language-link:last-of-type {
     margin-right: 16px;
 }
