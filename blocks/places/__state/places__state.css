@@ -10,8 +10,8 @@
     padding: 0;
 }
 
-@media screen and (max-width: 768px) {
-    .places__state-info {
+@media screen and (max-width: 1024px) {
+    .places__state {
         grid-column-gap: 32px;
         margin-right: 48px;
         margin-left: 48px;
@@ -19,7 +19,7 @@
 }
 
 @media screen and (max-width: 768px) {
-    .places__state-info {
+    .places__state {
         grid-column-gap: 28px;
         margin: 72px 24px 0;
     }
@@ -27,8 +27,8 @@
 
 
 @media screen and (max-width: 320px) {
-    .places__state-info {
-        display: inline-block;
-        margin: 0;
+    .places__state {
+        grid-template-columns: 1fr;
+        grid-column-gap: 0;
     }
 }

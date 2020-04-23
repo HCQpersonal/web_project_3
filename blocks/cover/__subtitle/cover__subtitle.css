@@ -30,7 +30,7 @@
         width: 288px;
         margin-left: 16px;
         margin-right: 16px;
-        margin-top: 102px;
+        top: 102px;
         justify-content: center;
     }
 }
