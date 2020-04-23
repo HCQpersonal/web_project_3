@@ -1,5 +1,3 @@
-@import url('./__column-first/places__column-first.css');
-@import url('./__column-second/places__column-second.css');
 @import url('./__state/places__state.css');
 @import url('./__state-description/places__state-description.css');
 @import url('./__state-image/places__state-image.css');
@@ -8,4 +6,4 @@
 @import url('./__state-url-heading/places__state-url-heading.css');
 @import url('./__state-url-link/places__state-url-link.css');
 @import url('./__states/places__states.css');
-@import url('./__website/places__website.css');
+@import url('./__state-website/places__state-website.css');
