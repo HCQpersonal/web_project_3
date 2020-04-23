@@ -11,5 +11,6 @@
 @media screen and (max-width: 320px) {
     .places__state-website {
         opacity: 0;
+        height: 0;
     }
 }
