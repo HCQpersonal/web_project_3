@@ -23,7 +23,7 @@
     .photo-grid {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr);
-        margin: 88px auto 0;
+        margin: 88px 24px 0;
     }
 }
 
