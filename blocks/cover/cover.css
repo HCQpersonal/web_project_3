@@ -6,7 +6,7 @@
 .cover {
     width: 1184px;
     height: 740px;
-    margin: 0 auto 92px;
+    margin: 92px auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,6 +30,7 @@
         .cover {
             width: 768px;
             height: 400px;
+            margin-top: 88px;
         }
     }
     
