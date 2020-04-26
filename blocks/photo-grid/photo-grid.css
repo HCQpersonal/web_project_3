@@ -23,8 +23,7 @@
     .photo-grid {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr);
-        grid-gap: 16px;
-        margin: 88px 24px 0;
+        margin: 88px auto 0;
     }
 }
 
@@ -33,6 +32,6 @@
         grid-template-columns: 1fr;
         grid-template-rows: repeat(12, 1fr);
         grid-gap: 12px;
-        margin: 64px 16px 0;
+        margin: 64px auto 0;
     }
 }
