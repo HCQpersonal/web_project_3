@@ -5,14 +5,15 @@
     list-style: none;
     float: left;
     margin-left: 18px;
-    text-decoration: underline;
 }
 
 .header__language-link:last-of-type {
-    text-decoration: none;
     margin-right: 148px;
 }
 
+.header__language-link.link:active {
+    text-decoration: underline;
+}
 
 @media screen and (max-width: 1024px) {
     .header__language-link:last-of-type {
