@@ -1,15 +1,10 @@
 .cover__image {
-    margin: 92px auto;
     text-align: center;
-    position: relative;
     color: #FFFFFF;
     text-decoration: none;
-    align-content: center;
-    justify-content: center;
-    display: flex;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     .cover__image {
         margin: 88px 0;
     }
@@ -19,4 +14,4 @@
     .cover__image {
         margin: 64px 0;
     }
-}
+} */

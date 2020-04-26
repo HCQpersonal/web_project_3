@@ -3,12 +3,12 @@
     font-weight: black;
     font-size: 72px;
     line-height: 1.06;
-    position: absolute;
+    position: static;
+    margin: 0 auto;
     z-index: 1;
-    margin: 283px auto 0;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     .cover__title {
         font-size: 32px;
         line-height: 35px;
@@ -22,4 +22,4 @@
         line-height: 35px;
         margin-top: 51px;
     }
-}
+} */
