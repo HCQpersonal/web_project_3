@@ -3,10 +3,9 @@
     font-size: 24px;
     line-height: 1.17;
     list-style: none;
-    float:left;
+    float: left;
     margin-left: 18px;
     text-decoration: underline;
-    margin-top: 14px;
 }
 
 .header__language-link:last-of-type {
@@ -16,8 +15,8 @@
 
 
 @media screen and (max-width: 1024px) {
-.header__language-link:last-of-type {
-    margin-right: 48px;
+    .header__language-link:last-of-type {
+        margin-right: 48px;
     }
 }
 
@@ -29,8 +28,7 @@
 
 @media screen and (max-width: 320px) {
 .header__language-link {
-    margin-top: 6px;
-    font-size: 18px;
+   font-size: 18px;
     line-height: 1.33;
     }
 }
