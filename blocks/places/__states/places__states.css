@@ -6,7 +6,7 @@
     width: 100%;
     margin-bottom: 72px;
 }
-
+/* 
     @media screen and (max-width: 1024px) {
         .places__states {
             grid-template-columns: 460px 456px;
@@ -17,8 +17,8 @@
     
     @media screen and (max-width: 768px) {
         .places__states {
-            grid-template-columns: 460px 352px;
+            grid-template-columns: 440px 352px;
             grid-column-gap: 28px;
             margin: 72px 24px 0;
         }
-    }
+    } */

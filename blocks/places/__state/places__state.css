@@ -20,9 +20,8 @@
 
 @media screen and (max-width: 768px) {
     .places__state {
-        grid-template-columns: 460px 352px;
+        grid-template-columns: 340px 352px;
         grid-column-gap: 28px;
-        margin-right: 0;
     }
 }
 
