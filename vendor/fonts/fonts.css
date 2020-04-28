@@ -1,14 +1,14 @@
 @font-face {
     font-family: "Inter";
     src: url('./Inter-Black.woff') format('woff');
-    font-style: black;
-    font-weight: black;
+    font-style: normal;
+    font-weight: 900;
 }
 
 @font-face {
     font-family: "Inter";
     src: url('./Inter-Bold.woff') format('woff');
-    font-style: bold;
+    font-style: normal;
     font-weight: bold;
 }
 
