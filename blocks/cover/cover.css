@@ -10,7 +10,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('./../../../images/cover-route-66.jpg');
+    background-image: url('./../../images/cover-route-66.jpg');
     background-repeat: no-repeat;
     background-position: center;
 }
