@@ -2,3 +2,9 @@
     padding: 0;
     margin: 46px 0 0;
 }
+
+@media screen and (max-width: 320px) {
+    .header__language-nav {
+        margin-top: 30px;
+    }
+}
