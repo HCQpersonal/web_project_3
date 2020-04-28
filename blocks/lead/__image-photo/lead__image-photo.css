@@ -2,6 +2,8 @@
     justify-content: center;
     width: 984px;
     height: 615px;
+    max-width: 100%;
+    object-fit: cover;
 }
 
 @media screen and (max-width: 1024px) {
