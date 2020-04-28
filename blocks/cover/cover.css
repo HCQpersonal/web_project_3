@@ -38,5 +38,7 @@
         .cover {
             width: 320px;
             height: 200px;
+            margin-top: 64px;
+            margin-bottom: 92px;
         }
     }
