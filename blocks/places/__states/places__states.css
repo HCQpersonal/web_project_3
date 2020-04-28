@@ -5,9 +5,3 @@
     margin: 0;
     width: 100%;
 }
-    
-@media screen and (max-width: 768px) {
-    .places__states {
-        margin-top: 72px;
-    }
-}
