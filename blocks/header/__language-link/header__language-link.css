@@ -1,3 +1,5 @@
+@import url('./_active/header__language-link_active.css');
+
 .header__language-link {
     width: 27px;
     font-size: 24px;
@@ -9,10 +11,6 @@
 .header__language-link:last-of-type {
     margin-right: 148px;
     margin-left: 18px;
-}
-
-.header__language-link.link:active {
-    text-decoration: underline;
 }
 
 @media screen and (max-width: 1024px) {

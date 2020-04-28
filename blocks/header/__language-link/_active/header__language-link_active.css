@@ -1,0 +1,10 @@
+/* Seymon or reviewer, how does CSS actually know when this link is active without pseudoclass
+rather than just keeping it in constant state and calling it "active"?
+Also, why can't I get it to show up? We were told specifying classes like I had before was ok when needed because of import sequence :(
+I've been trying to tag my tutor in Slack but he has not written back :( 
+I work full time and am in other courses, so I do not have endless time to research, can you please help guide me? */
+
+
+.header__language-link_active {
+    text-decoration: underline;
+}
