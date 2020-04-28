@@ -16,6 +16,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .footer {        display: unset;
+    .footer {        
+        display: unset;
     }
 }
