@@ -4,7 +4,6 @@
     width: 27px;
     font-size: 24px;
     line-height: 1.17;
-    list-style: none;
     float: left;
 }
 
@@ -26,16 +25,16 @@
 }
 
 @media screen and (max-width: 320px) {
-.header__language-link {
-        font-size: 18px;
-        line-height: 1.33;
-        width: 21px;
-        height: 24px;
-    }
+    .header__language-link {
+            font-size: 18px;
+            line-height: 1.33;
+            width: 21px;
+            height: 24px;
+        }
 }
 
 @media screen and (max-width: 320px) {
-.header__language-link:last-of-type {
-    margin-right: 16px;
-    }
+    .header__language-link:last-of-type {
+        margin-right: 16px;
+        }
 }
